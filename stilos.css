@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-size: large;
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+
+.inputs input {
+    
+    border-radius: 23px;
+    border-style: ridge;
+    border-color: rgb(24, 181, 238);
+    border-width: 3px;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: large;
+}
+
+#resultado {
+    color: aliceblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
